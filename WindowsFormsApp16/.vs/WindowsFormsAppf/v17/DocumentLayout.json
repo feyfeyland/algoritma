@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fey_b\\OneDrive\\Masa\u00FCst\u00FC\\algoritma\\WindowsFormsApp16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88D6C7-8A67-4E1B-A2E9-B1C0FA9CBB73}|WindowsFormsAppf\\WindowsFormsAppf.csproj|c:\\users\\fey_b\\onedrive\\masa\u00FCst\u00FC\\algoritma\\windowsformsapp16\\windowsformsappf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA88D6C7-8A67-4E1B-A2E9-B1C0FA9CBB73}|WindowsFormsAppf\\WindowsFormsAppf.csproj|solutionrelative:windowsformsappf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88D6C7-8A67-4E1B-A2E9-B1C0FA9CBB73}|WindowsFormsAppf\\WindowsFormsAppf.csproj|C:\\Users\\fey_b\\OneDrive\\Masa\u00FCst\u00FC\\algoritma\\WindowsFormsApp16\\windowsformsappf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA88D6C7-8A67-4E1B-A2E9-B1C0FA9CBB73}|WindowsFormsAppf\\WindowsFormsAppf.csproj|solutionrelative:windowsformsappf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fey_b\\OneDrive\\Masa\u00FCst\u00FC\\algoritma\\WindowsFormsApp16\\WindowsFormsAppf\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppf\\Form1.cs",
+              "ToolTip": "C:\\Users\\fey_b\\OneDrive\\Masa\u00FCst\u00FC\\algoritma\\WindowsFormsApp16\\WindowsFormsAppf\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsAppf\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADgvyoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:56:25.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fey_b\\OneDrive\\Masa\u00FCst\u00FC\\algoritma\\WindowsFormsApp16\\WindowsFormsAppf\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppf\\Form1.cs",
+              "ToolTip": "C:\\Users\\fey_b\\OneDrive\\Masa\u00FCst\u00FC\\algoritma\\WindowsFormsApp16\\WindowsFormsAppf\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsAppf\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:56:25.81Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
